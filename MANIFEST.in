@@ -1,0 +1,5 @@
+include README
+include ChangeLog
+include TODO
+recursive-include lib ctea.h
+recursive-include test *.py
